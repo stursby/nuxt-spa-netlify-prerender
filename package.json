@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-spa-netlify-prerender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nuxt": "^2.2.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "none"
+  }
+}
